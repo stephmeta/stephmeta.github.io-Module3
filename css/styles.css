@@ -1,0 +1,32 @@
+.row {
+  margin-bottom: 25px;
+}
+.row > div {
+  border: 2px solid black;
+  background-color: gray;
+  height: 1000px;
+  text-align: center;
+}
+
+body {
+	margin: 35px;
+}
+header {
+	font-size: 20px;
+	margin-bottom: 10px;
+}
+
+h1 {
+text-align: center;
+font-size: 18px;
+margin:	10px;
+}
+
+p {
+text-align: left;
+font-size: 14px;
+margin:	10px;	
+}
+.dropdown-menu {
+	text-align: right;
+}
